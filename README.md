@@ -21,3 +21,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/TZnb9yP17Mc9i/giphy.gif">
+</div>
+:man_technologist: About Me :
+  
+- :telescope: I study Manual Testing
+
+- :zap: My stack includes: PostgreSQL, SQLite, Postman, SOAPUI, Charles Proxy.
+
+- :mailbox:How to reach me: [![TG Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ozwizkid)
