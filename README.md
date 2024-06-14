@@ -21,11 +21,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-:man_technologist: About Me :
   
-- :telescope: I study Manual Testing
+  :man_technologist: About Me :
+  
+ :telescope: I study Manual Testing
 
-- :zap: My stack includes:
+ :zap: Technologies:
 
 <a href="https://qase.io/">
   <img src="https://github.com/Ozwizkid/test/blob/main/47823040.png" alt="qase.io" width="50" height="50" />
@@ -54,5 +55,3 @@
 <a href="https://git-scm.com/">
   <img src="https://github.com/Ozwizkid/test/blob/main/git-bash.svg" alt="gitBash" width="50" height="50" />
 </a>
-
-- :mailbox:How to reach me: [![TG Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ozwizkid)
